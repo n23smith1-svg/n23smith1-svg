@@ -11,7 +11,7 @@ My academic background in cybersecurity has fueled my passion for information se
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/n23smith1-svg/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -31,5 +31,5 @@ My academic background in cybersecurity has fueled my passion for information se
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/n23smith1-svg/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
