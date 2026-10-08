@@ -12,16 +12,16 @@ My academic background in cybersecurity has fueled my passion for information se
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | CyberSecurity-Home-Lab-Setup          | <a href="https://github.com/n23smith1-svg/Detection-Lab/tree/main">Home Lab Setup</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Software Development lifecycle (SDLC)         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+|Wireshark Network Traffic Analysis| <a href="https://google.com">Detection Lab</a>|
+| Windows Event Log Investigation| SOC Monitoring, Windows Security |
+| Software Development lifecycle (SDLC)         | Basics|
+| Windows Firewall Investigation      | Network security, troubleshooting|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
 ### Network
-
+<a href="https://github.com/n23smith1-svg/CyberSecurity-Home-Lab-Setup">CyberSecurity-Home-Lab-Setup</a>
 ### Endpoint
 
 ### SIEM
@@ -31,5 +31,6 @@ My academic background in cybersecurity has fueled my passion for information se
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
+-<a href="https://github.com/n23smith1-svg/CyberSecurity-Home-Lab-Setup">CyberSecurity-Home-Lab-Setup</a>
 - <a href="https://github.com/n23smith1-svg/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+
