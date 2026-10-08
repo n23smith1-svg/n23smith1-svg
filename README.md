@@ -11,7 +11,7 @@ My academic background in cybersecurity has fueled my passion for information se
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/n23smith1-svg/Detection-Lab/tree/main">Detection Lab</a>|
+| CyberSecurity-Home-Lab-Setup          | <a href="https://github.com/n23smith1-svg/Detection-Lab/tree/main">Home Lab Setup</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Software Development lifecycle (SDLC)         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
